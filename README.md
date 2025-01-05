@@ -48,25 +48,25 @@ fcitx5的自定义皮肤，仅在fcitx5-rime测试过。
 
 ![fcitx5荧光绿透明版皮肤](images/1607338718.png)
 
-### 3、仿 macOS
+### 3、仿 MacOS
 
-#### macOS Light
+#### mMcOS Light
 
 示例图：
 
-![macOS亮色](images/mac-light.png)
+![MacOS亮色](images/mac-light.png)
 
-macOS Sonoma Light 原皮肤：
+MacOS Sonoma Light 原皮肤：
 
 ![macOS Sonoma Light](images/macOS%20Sonoma%20Light.png)
 
 macOS Light 的皮肤与实际皮肤有一些细微不同，有兴趣的朋友可以提交PR微调。
 
-#### macOS Dark
+#### MacOS Dark
 
 示例图：
 
-![macOS暗色](images/mac-dark.png)
+![MacOS暗色](images/mac-dark.png)
 
 macOS Sonoma Dark 原皮肤：
 
